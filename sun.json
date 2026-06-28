@@ -1,0 +1,382 @@
+{
+  "id": "sun-askyatharth",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@askyatharth Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_be5d09c79ca0",
+    "display_name": "askyatharth",
+    "user_id": "@askyatharth",
+    "description": "Community Archive-derived proof-of-search sun for @askyatharth.",
+    "document_count": 82108,
+    "word_count": 1809077,
+    "active_days": 1999,
+    "emissions": [
+      "Don",
+      "Feel",
+      "Way",
+      "Something",
+      "Know",
+      "Want"
+    ],
+    "generated_at": "2026-06-28T21:40:53.674958+00:00",
+    "color": "#f59e0b",
+    "mass": 14.408
+  },
+  "planets": [
+    {
+      "id": "planet_5867652c44dc",
+      "name": "Don",
+      "summary": "Archive cluster around don: 66945 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "think",
+        "thing",
+        "things",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b9551d580e0e",
+          "title": "Don receipt from 2024-03-02",
+          "excerpt": "Google is cool and all, but what Red Bull does with all their extra cash flow— all the wild, wacky extreme sports things no humans would have any business doing otherwise — that is a public service",
+          "source_document_id": "1763841951714226353",
+          "timestamp": "2024-03-02T08:21:06+00:00",
+          "url": "https://x.com/askyatharth/status/1763841951714226353",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, thing, things."
+        },
+        {
+          "id": "art_7668067ca95b",
+          "title": "Don receipt from 2024-02-24",
+          "excerpt": "so human fingers are wild https://t.co/yalRrQVhgL",
+          "source_document_id": "1761220694153765335",
+          "timestamp": "2024-02-24T02:45:10+00:00",
+          "url": "https://x.com/askyatharth/status/1761220694153765335",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, thing, things."
+        },
+        {
+          "id": "art_d52ea4e637f2",
+          "title": "Don receipt from 2024-12-23",
+          "excerpt": "period reminder to NOT donate to wikipedia\n\nthe ads deceive people into thinking wikipedia is under financial distress (it's not) and that donations go towards keeping the site running (they don't)\n\nthey borrow on the goodwill of wikipedia to fund a runaway NGO and its advocacy",
+          "source_document_id": "1871192450766959064",
+          "timestamp": "2024-12-23T13:53:39+00:00",
+          "url": "https://x.com/askyatharth/status/1871192450766959064",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, thing, things."
+        },
+        {
+          "id": "art_6e8317303530",
+          "title": "Don receipt from 2024-04-12",
+          "excerpt": "modernity tells us kids are a luxury. dating is a luxury. relationality is luxury. you have the earn it. the individual has to earn. once they are rich, hot, smart, mature enough, they won't harm their partner. the poor, ugly, and god forbid \"codependent\" should stay home https://t.co/Hql28NFpTi",
+          "source_document_id": "1778683192402444622",
+          "timestamp": "2024-04-12T07:14:54+00:00",
+          "url": "https://x.com/askyatharth/status/1778683192402444622",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, thing, things."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_357253665d6e",
+      "proof_score": 1,
+      "mass": 42.291,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_d4dd44050666",
+      "name": "Feel",
+      "summary": "Archive cluster around feel: 4435 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "feel",
+        "way",
+        "something",
+        "feels",
+        "feeling"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9faa2b0c3f70",
+          "title": "Feel receipt from 2024-06-07",
+          "excerpt": "turns out *most* people can feel bumps of a dozen nanometers or so. wtf is human touch https://t.co/Sqdq98yRBS https://t.co/7dSfNPHZsI",
+          "source_document_id": "1799117988228190704",
+          "timestamp": "2024-06-07T16:35:29+00:00",
+          "url": "https://x.com/askyatharth/status/1799117988228190704",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, way, something, feels."
+        },
+        {
+          "id": "art_d0c57e6d4268",
+          "title": "Feel receipt from 2024-03-12",
+          "excerpt": "over time, i came to understand. souls will commit suicide if they can't feel themselves. and some environments systematically raise kids who couldn't feel their soul\n\ntheir economic output was good, and their knowledge was impressive, but they were dying at the soul",
+          "source_document_id": "1767388558774706501",
+          "timestamp": "2024-03-12T03:14:03+00:00",
+          "url": "https://x.com/askyatharth/status/1767388558774706501",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, way, something, feels."
+        },
+        {
+          "id": "art_615cb82fa647",
+          "title": "Feel receipt from 2023-12-26",
+          "excerpt": "a lot's changed for me. i no longer feel the need to be exceptional. i love myself. i love life\n\nbut the most jarring part of my experience still is how much residual judgment i feel of people i meet in everyday life. i call it the walmart problem",
+          "source_document_id": "1739580414573138168",
+          "timestamp": "2023-12-26T09:34:25+00:00",
+          "url": "https://x.com/askyatharth/status/1739580414573138168",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, way, something, feels."
+        },
+        {
+          "id": "art_c9f072c9bbbd",
+          "title": "Feel receipt from 2024-09-07",
+          "excerpt": "i feel so stupid for saying this, but my little sports car i bought makes me so happy every day. it brings me so much joy. are you allowed to say that? aren't expensive cars not supposed to bring you happiness for very long? but it's been 9 months. and still every day i drive it… https://t.co/ENVpVvfivs",
+          "source_document_id": "1832499326737903977",
+          "timestamp": "2024-09-07T19:21:00+00:00",
+          "url": "https://x.com/askyatharth/status/1832499326737903977",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, way, something, feels."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_43c9c8873dbb",
+      "proof_score": 1,
+      "mass": 35.728,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_8ae401bb5168",
+      "name": "Way",
+      "summary": "Archive cluster around way: 3684 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "way",
+        "things",
+        "same",
+        "other",
+        "think"
+      ],
+      "artifacts": [
+        {
+          "id": "art_13bd9a7d0c9b",
+          "title": "Way receipt from 2024-10-30",
+          "excerpt": "i'd vaguely heard about the US election in 2000 actually being \"stolen\" and i looked it up and it seems consensus is\n\n- the entire US election came down to florida\n- the difference in votes was &lt;0.1%, not statistically significant\n- polling machine had hardware issues way higher…",
+          "source_document_id": "1851512494692712567",
+          "timestamp": "2024-10-30T06:32:32+00:00",
+          "url": "https://x.com/askyatharth/status/1851512494692712567",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, things, same, other."
+        },
+        {
+          "id": "art_b64b4b9cf523",
+          "title": "Way receipt from 2022-02-20",
+          "excerpt": "@BecomingCritter middle class person: wow it's so easy to make your way up even if you start with nothing",
+          "source_document_id": "1495312611985924096",
+          "timestamp": "2022-02-20T08:21:22+00:00",
+          "url": "https://x.com/askyatharth/status/1495312611985924096",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, things, same, other."
+        },
+        {
+          "id": "art_e92b8442cc0e",
+          "title": "Way receipt from 2024-08-05",
+          "excerpt": "my \"productivity technique\" is \"do whatever feels like the most important thing to be doing right now\". and quite often, it'll be scary, or tedious, in which case i help myself do it the way i'd help a 5yo\n\nit works. it feels obvious. it makes me think what was i doing before? https://t.co/3lGWNVFSa6",
+          "source_document_id": "1820281153640952168",
+          "timestamp": "2024-08-05T02:10:20+00:00",
+          "url": "https://x.com/askyatharth/status/1820281153640952168",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, things, same, other."
+        },
+        {
+          "id": "art_42a0e18382ff",
+          "title": "Way receipt from 2024-03-12",
+          "excerpt": "i realised my confusion was i had adopted the modern way of thinking: that happiness is additive. that it comes from eternal circumstances. one hamburger + one hamburger = twice the happiness\n\nthey had more hamburgers. so why were they dying?",
+          "source_document_id": "1767388561698062455",
+          "timestamp": "2024-03-12T03:14:04+00:00",
+          "url": "https://x.com/askyatharth/status/1767388561698062455",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, things, same, other."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b29844586af1",
+      "proof_score": 1,
+      "mass": 35.12,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_882113f3e0d4",
+      "name": "Something",
+      "summary": "Archive cluster around something: 3079 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "something",
+        "want",
+        "else",
+        "time",
+        "feels"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4146ad7d11b0",
+          "title": "Something receipt from 2024-03-18",
+          "excerpt": "one of the hottest, richest girls i was ever with kind of broke my brain in how she related to privilege\n\nto her, it wasn't something to be ashamed about, or performatively guilty for. it was a gift made to her life, and she saw to it that it spread",
+          "source_document_id": "1769641560059396474",
+          "timestamp": "2024-03-18T08:26:40+00:00",
+          "url": "https://x.com/askyatharth/status/1769641560059396474",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, want, else, time."
+        },
+        {
+          "id": "art_2d78cc52c671",
+          "title": "Something receipt from 2024-10-30",
+          "excerpt": "there's something that matters far more than even the partisan bias on a statistically ambiguous election\n\nbecause at the end of the day, it wasn't threatening to use the military. it wasn't calling the vice president to outright commit fraud",
+          "source_document_id": "1851516498348818885",
+          "timestamp": "2024-10-30T06:48:27+00:00",
+          "url": "https://x.com/askyatharth/status/1851516498348818885",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, want, else, time."
+        },
+        {
+          "id": "art_85a3e57a4957",
+          "title": "Something receipt from 2024-03-12",
+          "excerpt": "it made sense, that a society that didn’t know or talk about a soul except to describe something as soulless wouldn’t know when souls were dying or what to do about it\n\nso they gave them pills",
+          "source_document_id": "1767388560305631395",
+          "timestamp": "2024-03-12T03:14:03+00:00",
+          "url": "https://x.com/askyatharth/status/1767388560305631395",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, want, else, time."
+        },
+        {
+          "id": "art_b48229d8a07e",
+          "title": "Something receipt from 2024-03-12",
+          "excerpt": "indeed, someone and something seems to be taking note. after many, many lost children, we seem to have invented the concept of \"mental health\" to explain spiritual malaise. it’s not quite right, but in a culture that knows about the mind and not the spirit, it was the next step",
+          "source_document_id": "1767388570426421640",
+          "timestamp": "2024-03-12T03:14:06+00:00",
+          "url": "https://x.com/askyatharth/status/1767388570426421640",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, want, else, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0999e0205852",
+      "proof_score": 1,
+      "mass": 34.399,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_b4900664bb09",
+      "name": "Know",
+      "summary": "Archive cluster around know: 2085 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "didn",
+        "want",
+        "things",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e0a11d4939ce",
+          "title": "Know receipt from 2023-11-12",
+          "excerpt": "i know “addiction” is the mainstream, andrew huberman, overton window frame for our relationship with our phones, but it so impoverished\n\nhumans have a need for trance. phones offer that. humans have a need to plug into shared consciousness. social media offers that",
+          "source_document_id": "1723804327410893201",
+          "timestamp": "2023-11-12T20:45:53+00:00",
+          "url": "https://x.com/askyatharth/status/1723804327410893201",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, things."
+        },
+        {
+          "id": "art_f96c5c52465d",
+          "title": "Know receipt from 2024-03-18",
+          "excerpt": "i didn't know you could just leave the fear complex of the liberal america. you could just have your own compass and act on it as if people were already real and stakes were already real. i learned that from her\nhttps://t.co/yl7m6TS3xD",
+          "source_document_id": "1769644217180303630",
+          "timestamp": "2024-03-18T08:37:14+00:00",
+          "url": "https://x.com/askyatharth/status/1769644217180303630",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, things."
+        },
+        {
+          "id": "art_3339870a57b9",
+          "title": "Know receipt from 2025-03-16",
+          "excerpt": "what exactly.. happens in a depression? \n\nthe people still know how to make food, like they did two years ago. the wealth production infra stays same \n\nwhat exactly goes scarce",
+          "source_document_id": "1901418165797851409",
+          "timestamp": "2025-03-16T23:39:52+00:00",
+          "url": "https://x.com/askyatharth/status/1901418165797851409",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, things."
+        },
+        {
+          "id": "art_13bd06fa1705",
+          "title": "Know receipt from 2023-11-18",
+          "excerpt": "You have to make the mistakes your soul is tempted to make. You can’t go through the rest of your life not making them\n\nYou gotta know for yourself https://t.co/nzB6ZcbkI7",
+          "source_document_id": "1725975343562142007",
+          "timestamp": "2023-11-18T20:32:43+00:00",
+          "url": "https://x.com/askyatharth/status/1725975343562142007",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, things."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0cdfc923bc2a",
+      "proof_score": 1,
+      "mass": 33.156,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_6a3d4439f871",
+      "name": "Want",
+      "summary": "Archive cluster around want: 1880 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "things",
+        "thing",
+        "really",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_71873969fa6a",
+          "title": "Want receipt from 2023-07-25",
+          "excerpt": "i once met this girl who followed her heart so strongly i was smitten\n\ni didn’t want to be with her. i wanted to be her\n\nit was like she had access to the keys that said “you are real, your emotions are real”",
+          "source_document_id": "1683781843030781952",
+          "timestamp": "2023-07-25T10:10:49+00:00",
+          "url": "https://x.com/askyatharth/status/1683781843030781952",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, things, thing, really."
+        },
+        {
+          "id": "art_65fab30aab87",
+          "title": "Want receipt from 2024-12-18",
+          "excerpt": "to spell it out —\n\nwhen normal people ask \"how are you?\"\n\nthey want an attuned response back, one attuned to what the current conversational dynamic between you will support\n\nthey want an attuned response more than an honest one",
+          "source_document_id": "1869230626563571986",
+          "timestamp": "2024-12-18T03:58:04+00:00",
+          "url": "https://x.com/askyatharth/status/1869230626563571986",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, things, thing, really."
+        },
+        {
+          "id": "art_5bdf81bbe65a",
+          "title": "Want receipt from 2024-12-02",
+          "excerpt": "“birth control” is insane because it appears to be one of the most legitimately dangerous dugs with the potential to gigafry your body but is exclusively taken by literal turbonormies who unironically want to “be safe” and basically get oneshotted by it",
+          "source_document_id": "1863726441273364724",
+          "timestamp": "2024-12-02T23:26:24+00:00",
+          "url": "https://x.com/askyatharth/status/1863726441273364724",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, things, thing, really."
+        },
+        {
+          "id": "art_e540cc984349",
+          "title": "Want receipt from 2024-10-22",
+          "excerpt": "so i got licensed!\n\nand i have to say, street motorcycling seems like the most needlessly dangerous activities out there\n\nand i want to make a thread explaining exactly why, because it wasn't obvious to me https://t.co/j34Ml9Ece4",
+          "source_document_id": "1848605344114618489",
+          "timestamp": "2024-10-22T06:00:34+00:00",
+          "url": "https://x.com/askyatharth/status/1848605344114618489",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, things, thing, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2fd3737d2c8e",
+      "proof_score": 1,
+      "mass": 32.773,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
